@@ -27,5 +27,5 @@ function sayHiToGrandma(string) {
 
 function sayHiToGrandma(string) {
   console.log(upperCase)
-  return `I can't hear you!`
+  return `YES INDEED!`
 }
