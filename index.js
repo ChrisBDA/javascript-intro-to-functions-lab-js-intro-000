@@ -21,7 +21,6 @@ var lowercase = `hello`
 var mixedCase = `Hi there`
 
 function sayHiToGrandma(string) {
-  console.log(`hello`, `HELLO`)
+  console.log(`hello`)
   return `I can't hear you!`
-  return 'YES INDEED!'
 }
